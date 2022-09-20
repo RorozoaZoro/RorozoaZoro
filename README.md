@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @RorozoaZoro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RorozoaZoro/RorozoaZoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
--batata
--Meu nome verdadeiro e kauã
-gmail kauafaga2007@gmail.com
+- 👋 Ola me chamo Kauã
+- 👀 Tenho interesse em aprender sobre Programação
+- 🌱 No momento estou aprendendo sobre programação de jogos
+- 💞️ procuro colaborar e ajudar pessoas na programação
+- 📫 me chame no gmail kauafaga2007@gmail.com ou ligue 41998717220
